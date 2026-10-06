@@ -1,7 +1,7 @@
-# ChatGPT Plus、Claude Pro、Cursor 会员代充：1 个月独享账号 · Rent ChatGPT, Claude & Cursor accounts for one month
+# ChatGPT Plus、Claude Pro 会员代充：1 个月独享账号 · Rent ChatGPT & Claude accounts for one month
 
-注册失败、账号被封、没有外币卡，也能马上用上 ChatGPT、Claude、Cursor、GitHub Copilot。
-Ready-made private accounts for ChatGPT, Claude, Cursor and GitHub Copilot, one month at a time.
+注册失败、账号被封、没有外币卡，也能马上用上 ChatGPT 和 Claude。
+Ready-made private ChatGPT and Claude accounts, one month at a time.
 
 **[中文](#中文) · [English](#english)** · 在线阅读：[facaihao.github.io](https://facaihao.github.io/)
 
@@ -11,7 +11,7 @@ Ready-made private accounts for ChatGPT, Claude, Cursor and GitHub Copilot, one 
 
 ### 注册总失败、账号被封、没有外币卡？先租一个月再说
 
-ChatGPT、Claude、Cursor、GitHub Copilot，这些 AI 会员在国内有三个常见的麻烦：
+ChatGPT 和 Claude 的会员，在国内有三个常见的麻烦：
 
 - **自己注册总失败**：手机号、IP、支付，任何一环不过都会卡住。
 - **账号被封**：刚用顺手，账号就没了，里面的会话和习惯一起丢。
@@ -37,13 +37,8 @@ ChatGPT、Claude、Cursor、GitHub Copilot，这些 AI 会员在国内有三个�
 | Claude | Pro | $20 | 16 |
 | Claude | Max 5x | $100 | 60 |
 | Claude | Max 20x | $200 | 120 |
-| Cursor | Pro | $20 | 16 |
-| Cursor | Pro+ | $60 | 36 |
-| Cursor | Ultra | $200 | 120 |
-| GitHub Copilot | Pro+ | $39 | 23.4 |
-| GitHub Copilot | Max | $100 | 60 |
 
-最低约官网六折。价格和库存以商品页为准：[ChatGPT](https://www.sublyte.com/zh/buy/chatgpt) · [Claude](https://www.sublyte.com/zh/buy/claude) · [Cursor](https://www.sublyte.com/zh/buy/cursor) · [GitHub Copilot](https://www.sublyte.com/zh/buy/github-copilot)
+最低约官网六折。价格和库存以商品页为准：[ChatGPT](https://www.sublyte.com/zh/buy/chatgpt) · [Claude](https://www.sublyte.com/zh/buy/claude)
 
 ### 怎么买
 
@@ -64,7 +59,6 @@ ChatGPT、Claude、Cursor、GitHub Copilot，这些 AI 会员在国内有三个�
 
 - [ChatGPT Plus 和 Pro 怎么选？$20、$100、$200 三档的真实区别](https://facaihao.github.io/zh/chatgpt-plus-pro-100-200-zenme-xuan/)
 - [Claude Pro 和 Max 5x、20x 怎么选？](https://facaihao.github.io/zh/claude-pro-max-5x-20x-zenme-xuan/)
-- [Cursor Pro、Pro+、Ultra 区别](https://facaihao.github.io/zh/cursor-pro-pro-plus-ultra-qubie/)
 - [没有外币卡，怎么订阅 ChatGPT、Claude？4 种方式对比](https://facaihao.github.io/zh/meiyou-waibika-dingyue-ai-de-sizhong-fangshi/)
 
 ---
@@ -73,7 +67,7 @@ ChatGPT、Claude、Cursor、GitHub Copilot，这些 AI 会员在国内有三个�
 
 ### Can't register, got banned, or have no foreign card? Rent a plan for one month.
 
-ChatGPT, Claude, Cursor and GitHub Copilot come with three common headaches for users in mainland China:
+ChatGPT and Claude plans come with three common headaches for users in mainland China:
 
 - **Sign-up keeps failing.** Phone number, IP or payment: any one of them can block you.
 - **Accounts get banned.** Just as you get used to it, the account is gone.
@@ -99,13 +93,8 @@ If you only need a plan **for this month**, the simplest route is to **buy a rea
 | Claude | Pro | $20 | 16 |
 | Claude | Max 5x | $100 | 60 |
 | Claude | Max 20x | $200 | 120 |
-| Cursor | Pro | $20 | 16 |
-| Cursor | Pro+ | $60 | 36 |
-| Cursor | Ultra | $200 | 120 |
-| GitHub Copilot | Pro+ | $39 | 23.4 |
-| GitHub Copilot | Max | $100 | 60 |
 
-From about 60% of the official price. Prices and stock follow the product pages: [ChatGPT](https://www.sublyte.com/en/buy/chatgpt) · [Claude](https://www.sublyte.com/en/buy/claude) · [Cursor](https://www.sublyte.com/en/buy/cursor) · [GitHub Copilot](https://www.sublyte.com/en/buy/github-copilot)
+From about 60% of the official price. Prices and stock follow the product pages: [ChatGPT](https://www.sublyte.com/en/buy/chatgpt) · [Claude](https://www.sublyte.com/en/buy/claude)
 
 ### How to buy
 
@@ -126,5 +115,4 @@ No site account is needed, and nothing is collected beyond your email.
 
 - [ChatGPT Plus vs Pro $100 vs Pro $200](https://facaihao.github.io/en/chatgpt-plus-vs-pro-100-vs-pro-200/)
 - [Claude Pro vs Max 5x vs Max 20x](https://facaihao.github.io/en/claude-pro-vs-max-5x-vs-20x/)
-- [Cursor Pro vs Pro+ vs Ultra](https://facaihao.github.io/en/cursor-pro-vs-pro-plus-vs-ultra/)
 - [How to pay for ChatGPT and Claude without a US card](https://facaihao.github.io/en/pay-for-chatgpt-claude-without-a-us-card/)

@@ -1,12 +1,12 @@
 ---
 title: AI Plan Notes
-description: How to choose and buy ChatGPT, Claude, Cursor and other AI plans: plan differences, usage limits and payment options compared.
+description: How to choose and buy ChatGPT and Claude plans: plan differences, usage limits and payment options compared.
 lang: en
 ---
 
 # AI Plan Notes
 
-How to choose and buy ChatGPT, Claude, Cursor and other AI plans.
+How to choose and buy ChatGPT and Claude plans.
 
 <ul class="posts">
 {% assign en = site.categories.en | sort: "date" | reverse %}

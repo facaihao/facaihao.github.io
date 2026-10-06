@@ -1,6 +1,6 @@
 ---
 title: AI 会员选购笔记 · AI Plan Notes
-description: ChatGPT、Claude、Cursor 等 AI 会员怎么选、怎么买 / How to choose and buy AI plans.
+description: ChatGPT、Claude 会员怎么选、怎么买 / How to choose and buy ChatGPT and Claude plans.
 lang: zh-Hans
 ---
 
