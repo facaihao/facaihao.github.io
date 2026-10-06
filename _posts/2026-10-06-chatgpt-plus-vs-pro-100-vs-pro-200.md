@@ -26,6 +26,6 @@ Both Pro tiers have the same features. Going from $100 to $200 buys a bigger all
 
 ## Paying for it
 
-OpenAI only accepts cards from supported countries. If yours is not one of them, see [how to pay for ChatGPT and Claude without a US card](/en/pay-for-chatgpt-claude-without-a-us-card/). If you would rather get a ready-to-use private account, [Sublyte](https://www.sublyte.com/en/buy/chatgpt) is one place that sells Plus and Pro tiers.
+OpenAI only accepts cards from supported countries. If yours is not one of them, see [how to pay for ChatGPT and Claude without a US card](/en/pay-for-chatgpt-claude-without-a-us-card/). If you would rather get a ready-to-use private account, [Sublyte](https://www.sublyte.com/en/buy/chatgpt) is one place that sells Plus and Pro tiers, priced from about 60% of the official rate, with pro-rata compensation if a plan is cut short.
 
 Plans and limits change. Check the [official OpenAI pricing page](https://openai.com/chatgpt/pricing/) for current details.

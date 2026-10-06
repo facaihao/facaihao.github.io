@@ -31,6 +31,6 @@ If you only need Claude for building software through the API, prepaid API credi
 
 ## Where to buy
 
-Anthropic requires a supported payment card. Other routes are compared [here](/en/pay-for-chatgpt-claude-without-a-us-card/), and ready-made private accounts are sold by shops such as [Sublyte](https://www.sublyte.com/en/buy/claude).
+Anthropic requires a supported payment card. Other routes are compared [here](/en/pay-for-chatgpt-claude-without-a-us-card/), and ready-made private accounts are sold by shops such as [Sublyte](https://www.sublyte.com/en/buy/claude), priced from about 60% of the official rate, with pro-rata compensation if a plan is cut short.
 
 Plans change. See the [official Claude pricing page](https://claude.com/pricing) for current details.

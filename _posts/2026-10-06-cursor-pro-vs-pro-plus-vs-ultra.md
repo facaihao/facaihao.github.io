@@ -26,6 +26,6 @@ All three include unlimited Tab completions plus agents, Bugbot and cloud agents
 
 ## Where to buy
 
-Paying on Cursor's site needs a supported card. Other payment options are compared [here](/en/pay-for-chatgpt-claude-without-a-us-card/), and [Sublyte](https://www.sublyte.com/en/buy/cursor) lists private Cursor accounts.
+Paying on Cursor's site needs a supported card. Other payment options are compared [here](/en/pay-for-chatgpt-claude-without-a-us-card/), and [Sublyte](https://www.sublyte.com/en/buy/cursor) lists private Cursor accounts below the official price (about \$16 for Pro, \$36 for Pro+), with pro-rata compensation if a plan is cut short.
 
 Prices and included usage change. Check [Cursor's pricing page](https://cursor.com/pricing).

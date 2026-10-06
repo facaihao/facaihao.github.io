@@ -29,4 +29,4 @@ ChatGPT, Claude and Cursor only take cards from supported countries. If yours is
 3. **Can you change the password and recovery email?** That is what real control of the account means.
 4. **How fast is delivery?** Be wary of long, vague waits.
 
-Shops such as [Sublyte](https://www.sublyte.com/en) state private accounts, pro-rata compensation and changeable password and recovery email up front, which makes them easy to compare against other sellers using this list.
+Shops such as [Sublyte](https://www.sublyte.com/en) price below the official rate (from about 60%) and state private accounts, pro-rata compensation and changeable password and recovery email up front, which makes them easy to compare against other sellers using this list.

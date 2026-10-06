@@ -26,6 +26,6 @@ lang: zh-Hans
 
 ## 怎么付款
 
-ChatGPT 官网只收国外信用卡。没有外币卡的几种办法，见 [没有外币卡，怎么订阅 ChatGPT、Claude？4 种方式对比](/zh/meiyou-waibika-dingyue-ai-de-sizhong-fangshi/)。想直接要现成的独享账号，[Sublyte](https://www.sublyte.com/zh/buy/chatgpt) 这类店有 Plus 和 Pro 档位。
+ChatGPT 官网只收国外信用卡。没有外币卡的几种办法，见 [没有外币卡，怎么订阅 ChatGPT、Claude？4 种方式对比](/zh/meiyou-waibika-dingyue-ai-de-sizhong-fangshi/)。想直接要现成的独享账号，[Sublyte](https://www.sublyte.com/zh/buy/chatgpt) 这类店有 Plus 和 Pro 档位，标价最低约官网六折，会员中途中断按天赔付。
 
 套餐和用量经常调整，具体以 [OpenAI 官网价格页](https://openai.com/chatgpt/pricing/) 为准。

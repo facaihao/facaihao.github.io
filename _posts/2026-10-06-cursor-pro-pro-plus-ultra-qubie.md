@@ -26,6 +26,6 @@ Cursor 是很多程序员在用的 AI 代码编辑器。付费档位怎么选，
 
 ## 怎么买
 
-官网付款需要国外信用卡，没有的话见 [4 种方式对比](/zh/meiyou-waibika-dingyue-ai-de-sizhong-fangshi/)。现成账号可以看 [Sublyte 的 Cursor 账号](https://www.sublyte.com/zh/buy/cursor)。
+官网付款需要国外信用卡，没有的话见 [4 种方式对比](/zh/meiyou-waibika-dingyue-ai-de-sizhong-fangshi/)。现成账号可以看 [Sublyte 的 Cursor 账号](https://www.sublyte.com/zh/buy/cursor)，标价低于官网（Pro 约 \$16，Pro+ 约 \$36），中断按天赔付。
 
 价格和包含的用量会调整，以 [Cursor 官网](https://cursor.com/pricing) 为准。

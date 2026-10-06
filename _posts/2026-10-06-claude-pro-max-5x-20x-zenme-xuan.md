@@ -31,6 +31,6 @@ Claude 的用量按**滚动的 5 小时窗口**计算，倍数指每个窗口内
 
 ## 怎么买
 
-官网需要国外信用卡，没有的话见 [4 种方式对比](/zh/meiyou-waibika-dingyue-ai-de-sizhong-fangshi/)。也有现成的独享账号可选，比如 [Sublyte 的 Claude 账号](https://www.sublyte.com/zh/buy/claude)。
+官网需要国外信用卡，没有的话见 [4 种方式对比](/zh/meiyou-waibika-dingyue-ai-de-sizhong-fangshi/)。也有现成的独享账号可选，比如 [Sublyte 的 Claude 账号](https://www.sublyte.com/zh/buy/claude)，标价最低约官网六折，会员中途中断按天赔付。
 
 套餐会调整，以 [Claude 官网价格页](https://claude.com/pricing) 为准。
