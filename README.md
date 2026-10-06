@@ -35,27 +35,27 @@ Ready-made private ChatGPT and Claude accounts, one month at a time.
 - **用多少买多少。** 这个月用 Pro，下个月用不上就不买，不会被自动续费扣钱。
 - **被封了可以马上换。** 手头需要一个立刻能用的账号，下单后约 15 分钟就能拿到。
 - **先试再决定。** 想知道 Max 比 Pro 到底差多少，花一个月的价格试一次，比猜强。
-- **价格低于官网。** 同样是一个月，这里最低约官网六折，比如 Claude Max 5x 官网 $100，这里 60 USDT；ChatGPT Pro 100 官网 $100，这里 60 USDT。
+- **价格低于官网。** 同样是一个月，这里最低约官网六折，比如 Claude Max 5x 官网 $100，这里 $60；ChatGPT Pro 100 官网 $100，这里 $60。
 
 ## 有哪些套餐，怎么选
 
 ### ChatGPT
 
-| 套餐 | 官网月费 | 这里的价格（USDT） | 适合谁 |
+| 套餐 | 官网月费 | 这里的价格 | 适合谁 |
 |---|---|---|---|
-| Plus | $20 | 16 | 日常提问、写作、查资料、偶尔写代码 |
-| Pro 100 | $100 | 60 | 每天高强度使用，经常撞到上限 |
-| Pro 200 | $200 | 120 | 全天重度使用，多任务并行 |
+| Plus | $20 | $16 | 日常提问、写作、查资料、偶尔写代码 |
+| Pro 100 | $100 | $60 | 每天高强度使用，经常撞到上限 |
+| Pro 200 | $200 | $120 | 全天重度使用，多任务并行 |
 
 三档的核心差别是**用量**：Pro 100 约为 Plus 的 5 倍，Pro 200 约为 20 倍，两档 Pro 功能相同。大多数人从 Plus 开始就够了。详细对比见 [ChatGPT Plus 和 Pro 怎么选](https://facaihao.github.io/zh/chatgpt-plus-pro-100-200-zenme-xuan/)。
 
 ### Claude
 
-| 套餐 | 官网月费 | 这里的价格（USDT） | 适合谁 |
+| 套餐 | 官网月费 | 这里的价格 | 适合谁 |
 |---|---|---|---|
-| Pro | $20 | 16 | 日常对话、写作，偶尔用 Claude Code |
-| Max 5x | $100 | 60 | 每天写代码，用 Pro 经常触顶 |
-| Max 20x | $200 | 120 | 一整天都在用，或同时开多个 Claude Code |
+| Pro | $20 | $16 | 日常对话、写作，偶尔用 Claude Code |
+| Max 5x | $100 | $60 | 每天写代码，用 Pro 经常触顶 |
+| Max 20x | $200 | $120 | 一整天都在用，或同时开多个 Claude Code |
 
 Pro 和 Max 都包含 Claude Code，Max 的倍数是相对 Pro 的用量，另有每周总上限。详细对比见 [Claude Pro 和 Max 怎么选](https://facaihao.github.io/zh/claude-pro-max-5x-20x-zenme-xuan/)。
 
@@ -81,20 +81,20 @@ Pro 和 Max 都包含 Claude Code，Max 的倍数是相对 Pro 的用量，另�
 
 1. 在商品页选好产品和套餐，点“立即购买”。
 2. 填写收货邮箱。**请认真核对**，账号信息只会发到这个邮箱。
-3. 用 USDT（TRC20 网络）按页面显示的**精确金额**转账。金额末尾的小数用来识别你的订单，订单保留 30 分钟，页面上有倒计时。
+3. 按页面显示的**精确金额**付款，注意金额末尾的小数也要一致。订单保留 30 分钟，页面上有倒计时。
 4. 付款确认后，约 15 分钟内账号信息发到邮箱。
 
-不需要注册网站账号，除邮箱外不收集别的信息。没有 USDT 的话，需要先在交易所买好再提到页面给出的地址，第一次通常要多花些时间做实名认证，建议先准备好再下单。
+不需要注册网站账号，除邮箱外不收集别的信息。付款方式和步骤在结算页面里有详细说明。
 
 ## 保障说得清清楚楚
 
 先说**什么情况会处理**：
 
-- **到手就用不了**（密码不对、验证码无效、账号上没有会员）：补发新账号，没货时退 USDT。
+- **到手就用不了**（密码不对、验证码无效、账号上没有会员）：补发新账号，没货时退款。
 - **没能发货**：付款确认后没拿到账号，补发或退款。
 - **会员中途失效**（不是你自己的操作造成的）：按**没用完的天数**赔，按你实付的价格算，不按官网价。
 
-赔付公式很简单：**实付金额 × 剩余天数 ÷ 30**。比如实付 120 USDT 的套餐，第 10 天失效，剩 20 天，退 80 USDT。到手第一天就完全不能用，则全额退。
+赔付公式很简单：**实付金额 × 剩余天数 ÷ 30**。比如实付 $120 的套餐，第 10 天失效，剩 20 天，退 $80。到手第一天就完全不能用，则全额退。
 
 再说**什么情况不处理**，免得事后才发现：
 
@@ -102,7 +102,7 @@ Pro 和 Max 都包含 Claude Code，Max 的倍数是相对 Pro 的用量，另�
 - 因为你自己的操作造成的问题，比如把账号分给别人、多地同时登录、违反服务商规则。
 - 到手不能用，要在 **24 小时**内报障；被封，要在 **48 小时**内报障，并附上截图。
 
-没有任何东西能保证账号永远不被封，所以才有按天赔付这个机制。退款只退 USDT，退回付款的原地址，确认后 3 个工作日内到账。
+没有任何东西能保证账号永远不被封，所以才有按天赔付这个机制。退款只退回付款的原地址，确认后 3 个工作日内到账。
 
 ## 适合谁，不适合谁
 
@@ -128,7 +128,7 @@ Pro 和 Max 都包含 Claude Code，Max 的倍数是相对 Pro 的用量，另�
 付款确认后约 15 分钟。
 
 **用什么付款？**
-USDT，TRC20 网络。选错网络转账会到不了账，转账前请确认。
+按结算页面的提示付款，不需要银行卡。转账前请核对页面上的金额和网络，选错网络会到不了账。
 
 **下个月还想用，怎么办？**
 再下一单就行。每个月都是一个新的账号，原来的到期不续。
@@ -180,27 +180,27 @@ Most needs are **temporary**: finishing a project, working through a long docume
 - **Pay only for what you use.** Need Pro this month and nothing next month? Do not buy, and no auto-renewal charges you.
 - **Replace a banned account fast.** If you need a working one right now, delivery takes about 15 minutes after payment.
 - **Try before committing.** Wondering how much better Max is than Pro? One month answers it better than guessing.
-- **Priced below the official rate.** From about 60% of the official price: Claude Max 5x is $100 officially and 60 USDT here, and ChatGPT Pro 100 is $100 officially and 60 USDT here.
+- **Priced below the official rate.** From about 60% of the official price: Claude Max 5x is $100 officially and $60 here, and ChatGPT Pro 100 is $100 officially and $60 here.
 
 ## Plans and how to choose
 
 ### ChatGPT
 
-| Plan | Official price | Price here (USDT) | Best for |
+| Plan | Official price | Price here | Best for |
 |---|---|---|---|
-| Plus | $20 | 16 | Everyday questions, writing, research, light coding |
-| Pro 100 | $100 | 60 | Heavy daily use, often hitting limits |
-| Pro 200 | $200 | 120 | All-day power use and parallel tasks |
+| Plus | $20 | $16 | Everyday questions, writing, research, light coding |
+| Pro 100 | $100 | $60 | Heavy daily use, often hitting limits |
+| Pro 200 | $200 | $120 | All-day power use and parallel tasks |
 
 The core difference is **usage**: Pro 100 is about 5x Plus and Pro 200 about 20x, with the same features on both Pro tiers. Most people should start with Plus. See [ChatGPT Plus vs Pro $100 vs Pro $200](https://facaihao.github.io/en/chatgpt-plus-vs-pro-100-vs-pro-200/).
 
 ### Claude
 
-| Plan | Official price | Price here (USDT) | Best for |
+| Plan | Official price | Price here | Best for |
 |---|---|---|---|
-| Pro | $20 | 16 | Chat, writing, occasional Claude Code |
-| Max 5x | $100 | 60 | Daily coding, hitting Pro limits |
-| Max 20x | $200 | 120 | All-day use or several Claude Code sessions at once |
+| Pro | $20 | $16 | Chat, writing, occasional Claude Code |
+| Max 5x | $100 | $60 | Daily coding, hitting Pro limits |
+| Max 20x | $200 | $120 | All-day use or several Claude Code sessions at once |
 
 Pro and Max both include Claude Code. The Max multipliers are relative to Pro usage, and a weekly cap applies on top. See [Claude Pro vs Max 5x vs Max 20x](https://facaihao.github.io/en/claude-pro-vs-max-5x-vs-20x/).
 
@@ -226,20 +226,20 @@ After you order, your inbox gets a **Google account with the plan already active
 
 1. Pick a product and plan on its page and click Buy now.
 2. Enter the email to deliver to. **Check it carefully**: the account details are sent only there.
-3. Pay the **exact amount** in USDT on the TRC20 network. The decimals identify your order, and the order is held for 30 minutes, with a countdown on the page.
+3. Pay the **exact amount** shown, decimals included. The order is held for 30 minutes, with a countdown on the page.
 4. About 15 minutes after payment is confirmed, the account details arrive by email.
 
-No site account is needed, and nothing is collected beyond your email. If you do not hold USDT yet, you will need to buy it on an exchange and withdraw it to the address shown. The first time usually takes longer because of identity checks, so it is best to have it ready before ordering.
+No site account is needed, and nothing is collected beyond your email. Payment steps are explained on the checkout page.
 
 ## What is covered, spelled out
 
 First, **what gets handled**:
 
-- **The account does not work on arrival** (wrong password, invalid code, no plan on it): replaced with a new one, or refunded in USDT if there is no stock.
+- **The account does not work on arrival** (wrong password, invalid code, no plan on it): replaced with a new one, or refunded if there is no stock.
 - **No delivery**: payment confirmed but no account received: replaced or refunded.
 - **The plan stops partway** (not caused by your own actions): compensated for the **unused days**, calculated on the price you paid, not the official price.
 
-The formula is simple: **amount paid × days left ÷ 30**. For example, a plan that cost 120 USDT and stops on day 10 has 20 days left, so 80 USDT is refunded. If it never worked on day one, you get the full amount back.
+The formula is simple: **amount paid × days left ÷ 30**. For example, a plan that cost $120 and stops on day 10 has 20 days left, so $80 is refunded. If it never worked on day one, you get the full amount back.
 
 Now **what is not handled**, so there are no surprises:
 
@@ -247,7 +247,7 @@ Now **what is not handled**, so there are no surprises:
 - Problems caused by your own actions, such as sharing the account, logging in from several places at once, or breaking the provider's rules.
 - A dead-on-arrival report must come within **24 hours**; a ban must be reported within **48 hours** with a screenshot.
 
-Nothing can guarantee an account is never banned, which is exactly why per-day compensation exists. Refunds are paid only in USDT, back to the address you paid from, within 3 working days of approval.
+Nothing can guarantee an account is never banned, which is exactly why per-day compensation exists. Refunds go back only to the address you paid from, within 3 working days of approval.
 
 ## Who it is for, and who it is not
 
@@ -273,7 +273,7 @@ Yes. After logging in you can change the password, 2FA and recovery email.
 About 15 minutes after payment is confirmed.
 
 **How do I pay?**
-USDT on the TRC20 network. Funds sent on another network will not arrive, so check before you transfer.
+Follow the checkout page; no bank card is needed. Check the amount and network shown before you transfer, because funds sent on the wrong network will not arrive.
 
 **What about next month?**
 Place a new order. Each month is a new account and the old one simply ends.
