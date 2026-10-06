@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://facaihao.github.io/sitemap.xml

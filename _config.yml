@@ -1,0 +1,13 @@
+title: AI 会员选购笔记
+description: ChatGPT、Claude、Cursor 等 AI 会员怎么选、怎么买
+url: https://facaihao.github.io
+lang: zh-Hans
+permalink: /:categories/:title/
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
+exclude: [README.md, CLAUDE.md, AGENTS.md]

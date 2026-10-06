@@ -1,0 +1,29 @@
+:root{--bg:#faf7f2;--fg:#26211c;--fg2:#5d554c;--fg3:#8a8178;--line:#e6dfd4;--accent:#c4562f;--accent-wash:#fbeee8;--card:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#1b1815;--fg:#f0e9df;--fg2:#c2b8ab;--fg3:#8f857a;--line:#38322c;--accent:#e8825a;--accent-wash:#2c211b;--card:#23201c}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.75 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Segoe UI",Roboto,sans-serif;-webkit-text-size-adjust:100%}
+a{color:var(--accent);text-underline-offset:3px}
+.wrap{max-width:720px;margin:0 auto;padding:0 20px}
+header.site{border-bottom:1px solid var(--line)}
+header.site .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:18px;padding-bottom:18px}
+header.site a.brand{color:var(--fg);font-weight:700;text-decoration:none;font-size:18px}
+header.site nav{display:flex;gap:18px;font-size:15px}
+header.site nav a{color:var(--fg2);text-decoration:none}
+header.site nav a:hover{color:var(--accent)}
+main{padding:36px 0 56px}
+h1{font-size:clamp(26px,5vw,34px);line-height:1.25;letter-spacing:-.02em;margin:0 0 12px}
+h2{font-size:22px;line-height:1.35;margin:38px 0 10px}
+p,ul,ol{margin:0 0 16px}
+li{margin-bottom:6px}
+.meta{color:var(--fg3);font-size:14px;margin-bottom:24px}
+table{display:block;overflow-x:auto;border-collapse:collapse;width:100%;font-size:15px;background:var(--card);margin:0 0 20px}
+th,td{border:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
+th{background:var(--accent-wash);font-weight:600}
+ul.posts{list-style:none;padding:0}
+ul.posts li{border-top:1px solid var(--line);padding:16px 0;margin:0}
+ul.posts li a{font-size:19px;font-weight:650;color:var(--fg);text-decoration:none;line-height:1.4}
+ul.posts li a:hover{color:var(--accent)}
+ul.posts li p{color:var(--fg2);font-size:15px;margin:4px 0 0}
+.lead{color:var(--fg2);font-size:18px}
+footer.site{border-top:1px solid var(--line);padding:24px 0 36px;color:var(--fg3);font-size:14px}
+footer.site p{margin:0}
